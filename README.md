@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+👋 Hi, I'm Auqib Javed<br><br>🚀 Assistant Mine Manager | Underground Coal Mining | CET & MDO Projects<br><br>🔎 About Me: Certified Mining Professional with 10+ years of experience in underground coal mining, specializing in statutory mine management, production optimization, and advanced mechanized mining techniques. I have hands-on expertise in Continuous Miner (CET), Roadheader operations, Bord & Pillar mining, and shaft/incline development, with a strong focus on DGMS compliance, safety leadership, and zero-harm operations.<br><br>🛠️ What I Do<br>⛏️ Underground Mine Development & Operations<br>⚙️ Continuous Miner & Roadheader Technology<br>📊 Production Planning & Resource Optimization<br>🌬️ Ventilation & Ground Control Management<br>🛡️ Safety, Compliance (DGMS, CMR, Mines Act)<br><br>🔭 I’m currently working on: Underground coal mining projects focusing on Continuous Miner (CET) operations, incline drivage, and production optimization<br><br>👯 I’m looking to collaborate on: Mining engineering projects, automation in mining, safety innovations, and technical research in underground operations<br><br>🤝 I’m looking for help with: Advanced mining analytics, digital mine planning tools, and AI applications in mining<br><br>🌱 I’m currently learning: Modern mining technologies, data-driven decision making, and smart mining systems<br><br>💬 Ask me about: Underground mining, DGMS regulations, Continuous Miner operations, ventilation, and mine planning<br><br>⚡ Fun fact: I’ve successfully maintained zero-accident operations while achieving 100% production targets in high-risk underground environments<br><br>🧰 Technical Skills Mining Methods: Bord & Pillar, Continuous Mining, Drill & Blast<br>Equipment: Roadheader, Continuous Miner, SDL, Conveyor Systems<br>Core Areas: Ventilation, Ground Control, Shaft Sinking, Incline Development<br>Compliance: DGMS, CMR, Mines Act 1952<br>Leadership: Shift Management, Strategic Planning, Risk-Based Decision Making<br><br>
 
-<!--
-**auqibjaved9-lang/auqibjaved9-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/auqib-javed) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:auqibjaved9@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Elm](https://img.shields.io/badge/Elm-60B5CC?style=for-the-badge&logo=elm&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=auqibjaved9-lang&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=auqibjaved9-lang&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=auqibjaved9-lang&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=auqibjaved9-lang&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
